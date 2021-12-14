@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan Köse</h1>
-<h3 align="center">A Game Developer from Turkey</h3>
+<h3 align="center">Game Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [MentalUP](https://www.mentalup.co/)
+- 🔭 I’m currently working on [Spyke Games](https://spykegames.com/)
 
 - 📝 I regularly write articles on [https://dogukankse.com/](https://dogukankse.com/)
 
